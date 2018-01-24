@@ -2,6 +2,8 @@
 This script will retrieve all SSIDs and corresponding first and last connection times from the registry of a remote host using Carbon Black Go Live. 
 
 ## Install Dependencies
+It's expected that you're an authorized user of Carbon Black Response, but if you have not yet configured your API, instructions can be found here: https://cbapi.readthedocs.io/en/latest/#api-credentials
+    
     pip install -r requirements.txt
     
 ## Usage
