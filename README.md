@@ -11,7 +11,7 @@ usage: cb_reg_rip.py [-h] hostname
 
 positional arguments:
 
-hostname    hostname of machine
+hostname        hostname of machine
 
 optional arguments:
 
