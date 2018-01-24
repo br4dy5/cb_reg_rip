@@ -21,6 +21,12 @@ optional arguments:
     cb_reg_rip.py hostname123
     
 ### Example Output
+    Host is Online
+    Current Time:  2018-01-24 15:32:43
+    Next Check-In: 0:00:04
+
+    Host is now available: https://123.45.6.789:1234/#/host/123456
+
     Google Starbucks
     first connected: 2018-01-20 10:03:31
     last connected: 2018-01-24 16:26:33
